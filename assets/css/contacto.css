@@ -1,0 +1,40 @@
+body {
+    background-image: url(../images/fondo_contacto2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#titulo {
+    color: white;
+}
+#object {
+    text-align: left;
+    color: white;
+}
+#boton {
+    padding-right: 87%;
+}
+#formulario {
+    background-color: rgba(255, 255, 255, 0.276);
+    border-radius: 20px;
+    height: 50%;
+}
+
+#tarjeta {
+    margin-left: 35%;
+}
+#titulo2 {
+    margin-left: 23%;
+    color: white;
+}
+
+#footer {
+    background-color: white;
+}
+
+#izquierdafondo {
+    margin-left: 5%;
+}
+#link {
+    text-decoration: none;
+}

@@ -1,0 +1,66 @@
+body {
+    background-image: url(../images/fondo_nosotros.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    background-attachment: fixed;
+}
+#titulo {
+    color: white;
+    font-size: 80px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 5%;
+    margin-top: 18%;
+}
+
+#historia {
+    background-color: white;
+}
+#video {
+    margin-left: 5%;
+}
+#histtitulo {
+    text-align: center;
+}
+#texto {
+    width:95%;
+    font-size: 19px;
+    text-align: left;
+    margin-left: 10%;
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#ventajas {
+    background-color: black;
+}
+
+#titulo2 {
+    color: white;
+    text-align: center;
+}
+#izquierda {
+    text-align: left;
+    margin-left: 5%;
+    color: white;
+}
+#derecha {
+    text-align: left;
+    margin-left: 5%;
+    color: white;
+}
+#textopeq {
+    color: white;
+    text-align: left;
+    margin-left: 5%;
+}
+#footer {
+    background-color: white;
+}
+
+#izquierdafondo {
+    margin-left: 5%;
+}
+#link {
+    text-decoration: none;
+}
